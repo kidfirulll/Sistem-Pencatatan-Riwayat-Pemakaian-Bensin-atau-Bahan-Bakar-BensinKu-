@@ -8,7 +8,7 @@ Sistem yang digunakan untuk mencatat penggunaan bahan bakar, dimana kita bisa me
 - 🔹 Memperkirakan jarak tempuh
 - 🔹 Memperhitungkan jarak tempuh per 1 liter
 - 🔹 Memperkirakan Penggunaan Bahan Bakar dengan inputan tujuan yang ditempuh
-- 
+  
 ## 🛠️ Teknologi yang Digunakan
 
 - **HTML5**
